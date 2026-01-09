@@ -110,6 +110,7 @@ weather_app/
 ### Prerequisites
 
 OpenWeatherMap API key
+As in creating an environment variable like the following: OPEN_WEATHER_MAP_API_KEY="..."
 
 ### Installation
 
