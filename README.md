@@ -4,15 +4,15 @@ A modern weather application built with **Reflex** (Python) that provides real-t
 
 **Author:** Víctor Serrano García
 
----
-
 ## Features
 
 ### Tech Assessment 1 - Core weather app
 
-**Location searching**  : Search for any city with autocomplete suggestions using OpenWeatherMap Geocoding API | `weather_app/frontend/components/location_input.py` |
+**Location searching**  : Search for any city with autocomplete suggestions using OpenWeatherMap Geocoding API 
+`weather_app/frontend/components/location_input.py` 
 
-**Current weather** :Display temperature, humidity, wind speed, and weather conditions | `weather_app/frontend/components/weather_card.py` |
+**Current weather** :Display temperature, humidity, wind speed, and weather conditions 
+`weather_app/frontend/components/weather_card.py` 
 
 **5-Day Forecast** : Horizontal forecast cards showing daily min/max temperatures `weather_app/frontend/components/forecast.py`
 
@@ -20,9 +20,10 @@ A modern weather application built with **Reflex** (Python) that provides real-t
 
 **Weather icons** :Dynamic icons from OpenWeatherMap based on conditions
 
-**Temperature units** : Toggle between Celsius and Fahrenheit | State toggle in `weather_card.py`
+**Temperature units** : Toggle between Celsius and Fahrenheit 
+State toggle in `weather_card.py`
 
-**Author info** : Name displayed in navbar with PM Accelerator info button `weather_app/frontend/components/navbar.py` |
+**Author info** : Name displayed in navbar with PM Accelerator info button `weather_app/frontend/components/navbar.py`
 
 ### Tech assessment 2 - CRUD db operations in SQLite
 
