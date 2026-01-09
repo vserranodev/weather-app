@@ -121,7 +121,7 @@ OpenWeatherMap API key
 
 **4. Configure environment variables by creating .env file with the variables**
 
-**Run the application with reflex run**
+**Run the application with "reflex run"**
 
 **6. Open in browser in localhost:3000/**
 
