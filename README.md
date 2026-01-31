@@ -1,4 +1,4 @@
-# Weather app for PM Accelerator
+# Weather app 
 
 A modern weather application built with **Reflex** (Python) that provides real-time weather information and forecasts for any location worldwide using OpenWeatherMap API and SQLite.
 
